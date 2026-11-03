@@ -41,6 +41,20 @@ http://dethich.pw/vtv5tn/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6.vn@hd" tvg-logo="" group-title="VTV",VTV6 (720p)
 https://dethich.pw/vtv6/index.m3u8
+#EXTINF:-1 tvg-id="vtvgofastcanhac" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastCanhac_logo.png" group-title="VTV",VTVgo Ca nhạc
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/master.m3u8
+#EXTINF:-1 tvg-id="vtvgofastdulich" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastDulich_logo.png" group-title="VTV",VTVgo Du lịch - Trải nghiệm - Khám phá
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/master.m3u8
+#EXTINF:-1 tvg-id="vtvgofastgameshow" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastGameshow_logo.png" group-title="VTV",VTVgo Game show
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/master.m3u8
+#EXTINF:-1 tvg-id="vtvgofastphimtruyen" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtruyen_logo.png" group-title="VTV",VTVgo Phim truyện
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/master.m3u8
+#EXTINF:-1 tvg-id="vtvgofasttailieu" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtailieu_logo.png" group-title="VTV",VTVgo Phim tài liệu
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/master.m3u8
+#EXTINF:-1 tvg-id="vtvgofastsuckhoenguoigia" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastSuckhoe_logo.png" group-title="VTV",VTVgo Sức khỏe - Người già
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
+#EXTINF:-1 tvg-id="vtvgofastthieunhi" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastThieunhi_logo.png" group-title="VTV",VTVgo Thiếu nhi
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
 #EXTINF:-1 tvg-id="htv1hd" tvg-logo="https://i.imgur.com/KEMSBD3.png" group-title="HTV",HTV1
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://i.imgur.com/2npoF3Q.png" group-title="HTV",HTV2
